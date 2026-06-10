@@ -1,0 +1,121 @@
+compound_id,compound_name,target_protein,research_stage,assigned_researcher,toxicity_score,efficacy_score,processing_days,development_status,priority,country,study_year
+DD001,Aleronib-001,PI3K,Screening,Dr. Meera Nair,29,61,14,Under Review,Low,Switzerland,2022
+DD002,Bexorin-002,HER2,Hit Validation,Dr. Arjun Verma,40,74,21,Under Review,Low,Germany,2023
+DD003,Carfilene-003,VEGFR2,Lead Identification,Dr. Ananya Rao,51,87,28,Active,Medium,United Kingdom,2024
+DD004,Doranex-004,CDK4,Lead Optimization,Dr. Karthik Iyer,62,51,35,Discontinued,Low,United States,2025
+DD005,Elunavir-005,mTOR,Preclinical,Dr. Sneha Patel,73,64,42,Discontinued,High,India,2026
+DD006,Fostrel-006,PI3K,Screening,Dr. Ravi Menon,18,77,49,Active,Low,Singapore,2022
+DD007,Galinor-007,HER2,Hit Validation,Dr. Pooja Shah,29,90,56,Promising,High,Switzerland,2023
+DD008,Heptrava-008,VEGFR2,Lead Identification,Dr. Vikram Das,40,54,63,Discontinued,High,Germany,2024
+DD009,Iveromab-009,CDK4,Lead Optimization,Dr. Meera Nair,51,67,70,On Hold,High,United Kingdom,2025
+DD010,Joracel-010,mTOR,Preclinical,Dr. Arjun Verma,62,80,13,Completed,Low,United States,2026
+DD011,Kelimor-011,PI3K,Screening,Dr. Ananya Rao,73,93,20,Discontinued,High,India,2022
+DD012,Lunexor-012,HER2,Hit Validation,Dr. Karthik Iyer,18,57,27,Discontinued,Low,Singapore,2023
+DD013,Mabrosin-013,VEGFR2,Lead Identification,Dr. Sneha Patel,29,70,34,Under Review,Low,Switzerland,2024
+DD014,Nerafex-014,CDK4,Lead Optimization,Dr. Ravi Menon,40,83,41,Active,Medium,Germany,2025
+DD015,Orvaten-015,mTOR,Preclinical,Dr. Pooja Shah,51,96,48,Completed,Medium,United Kingdom,2026
+DD016,Praxilon-016,PI3K,Screening,Dr. Vikram Das,62,60,55,On Hold,High,United States,2022
+DD017,Quenavir-017,HER2,Hit Validation,Dr. Meera Nair,73,73,62,Discontinued,High,India,2023
+DD018,Rimotrel-018,VEGFR2,Lead Identification,Dr. Arjun Verma,18,86,69,On Hold,High,Singapore,2024
+DD019,Solmecin-019,CDK4,Lead Optimization,Dr. Ananya Rao,29,50,12,Discontinued,Low,Switzerland,2025
+DD020,Travenol-020,mTOR,Preclinical,Dr. Karthik Iyer,40,63,19,Completed,Low,Germany,2026
+DD021,Aleronib-021,PI3K,Screening,Dr. Sneha Patel,51,76,26,Active,Low,United Kingdom,2022
+DD022,Bexorin-022,HER2,Hit Validation,Dr. Ravi Menon,62,89,33,Active,Medium,United States,2023
+DD023,Carfilene-023,VEGFR2,Lead Identification,Dr. Pooja Shah,73,53,40,Discontinued,High,India,2024
+DD024,Doranex-024,CDK4,Lead Optimization,Dr. Vikram Das,18,66,47,Under Review,Low,Singapore,2025
+DD025,Elunavir-025,mTOR,Preclinical,Dr. Meera Nair,29,79,54,On Hold,High,Switzerland,2026
+DD026,Fostrel-026,PI3K,Screening,Dr. Arjun Verma,40,92,61,Promising,High,Germany,2022
+DD027,Galinor-027,HER2,Hit Validation,Dr. Ananya Rao,51,56,68,Discontinued,High,United Kingdom,2023
+DD028,Heptrava-028,VEGFR2,Lead Identification,Dr. Karthik Iyer,62,69,11,Under Review,Low,United States,2024
+DD029,Iveromab-029,CDK4,Lead Optimization,Dr. Sneha Patel,73,82,18,Discontinued,High,India,2025
+DD030,Joracel-030,mTOR,Preclinical,Dr. Ravi Menon,18,95,25,Promising,Medium,Singapore,2026
+DD031,Kelimor-031,PI3K,Screening,Dr. Pooja Shah,29,59,32,Under Review,Low,Switzerland,2022
+DD032,Lunexor-032,HER2,Hit Validation,Dr. Vikram Das,40,72,39,Under Review,Low,Germany,2023
+DD033,Mabrosin-033,VEGFR2,Lead Identification,Dr. Meera Nair,51,85,46,Active,Medium,United Kingdom,2024
+DD034,Nerafex-034,CDK4,Lead Optimization,Dr. Arjun Verma,62,49,53,Discontinued,High,United States,2025
+DD035,Orvaten-035,mTOR,Preclinical,Dr. Ananya Rao,73,62,60,Discontinued,High,India,2026
+DD036,Praxilon-036,PI3K,Screening,Dr. Karthik Iyer,18,75,67,On Hold,High,Singapore,2022
+DD037,Quenavir-037,HER2,Hit Validation,Dr. Sneha Patel,29,88,10,Promising,Medium,Switzerland,2023
+DD038,Rimotrel-038,VEGFR2,Lead Identification,Dr. Ravi Menon,40,52,17,Discontinued,Low,Germany,2024
+DD039,Solmecin-039,CDK4,Lead Optimization,Dr. Pooja Shah,51,65,24,Under Review,Low,United Kingdom,2025
+DD040,Travenol-040,mTOR,Preclinical,Dr. Vikram Das,62,78,31,Completed,Low,United States,2026
+DD041,Aleronib-041,PI3K,Screening,Dr. Meera Nair,73,91,38,Discontinued,High,India,2022
+DD042,Bexorin-042,HER2,Hit Validation,Dr. Arjun Verma,18,55,45,Discontinued,Low,Singapore,2023
+DD043,Carfilene-043,VEGFR2,Lead Identification,Dr. Ananya Rao,29,68,52,On Hold,High,Switzerland,2024
+DD044,Doranex-044,CDK4,Lead Optimization,Dr. Karthik Iyer,40,81,59,On Hold,High,Germany,2025
+DD045,Elunavir-045,mTOR,Preclinical,Dr. Sneha Patel,51,94,66,On Hold,High,United Kingdom,2026
+DD046,Fostrel-046,PI3K,Screening,Dr. Ravi Menon,62,58,9,Under Review,Low,United States,2022
+DD047,Galinor-047,HER2,Hit Validation,Dr. Pooja Shah,73,71,16,Discontinued,High,India,2023
+DD048,Heptrava-048,VEGFR2,Lead Identification,Dr. Vikram Das,18,84,23,Active,Medium,Singapore,2024
+DD049,Iveromab-049,CDK4,Lead Optimization,Dr. Meera Nair,29,48,30,Discontinued,Low,Switzerland,2025
+DD050,Joracel-050,mTOR,Preclinical,Dr. Arjun Verma,40,61,37,Completed,Low,Germany,2026
+DD051,Kelimor-051,PI3K,Screening,Dr. Ananya Rao,51,74,44,Under Review,Low,United Kingdom,2022
+DD052,Lunexor-052,HER2,Hit Validation,Dr. Karthik Iyer,62,87,51,Active,High,United States,2023
+DD053,Mabrosin-053,VEGFR2,Lead Identification,Dr. Sneha Patel,73,51,58,Discontinued,High,India,2024
+DD054,Nerafex-054,CDK4,Lead Optimization,Dr. Ravi Menon,18,64,65,On Hold,High,Singapore,2025
+DD055,Orvaten-055,mTOR,Preclinical,Dr. Pooja Shah,29,77,8,Completed,Low,Switzerland,2026
+DD056,Praxilon-056,PI3K,Screening,Dr. Vikram Das,40,90,15,Promising,Medium,Germany,2022
+DD057,Quenavir-057,HER2,Hit Validation,Dr. Meera Nair,51,54,22,Discontinued,Low,United Kingdom,2023
+DD058,Rimotrel-058,VEGFR2,Lead Identification,Dr. Arjun Verma,62,67,29,Under Review,Low,United States,2024
+DD059,Solmecin-059,CDK4,Lead Optimization,Dr. Ananya Rao,73,80,36,Discontinued,High,India,2025
+DD060,Travenol-060,mTOR,Preclinical,Dr. Karthik Iyer,18,93,43,Promising,Medium,Singapore,2026
+DD061,Aleronib-061,PI3K,Screening,Dr. Sneha Patel,29,57,50,Discontinued,High,Switzerland,2022
+DD062,Bexorin-062,HER2,Hit Validation,Dr. Ravi Menon,40,70,57,On Hold,High,Germany,2023
+DD063,Carfilene-063,VEGFR2,Lead Identification,Dr. Pooja Shah,51,83,64,On Hold,High,United Kingdom,2024
+DD064,Doranex-064,CDK4,Lead Optimization,Dr. Vikram Das,62,96,7,Active,Medium,United States,2025
+DD065,Elunavir-065,mTOR,Preclinical,Dr. Meera Nair,73,60,14,Discontinued,High,India,2026
+DD066,Fostrel-066,PI3K,Screening,Dr. Arjun Verma,18,73,21,Under Review,Low,Singapore,2022
+DD067,Galinor-067,HER2,Hit Validation,Dr. Ananya Rao,29,86,28,Active,Medium,Switzerland,2023
+DD068,Heptrava-068,VEGFR2,Lead Identification,Dr. Karthik Iyer,40,50,35,Discontinued,Low,Germany,2024
+DD069,Iveromab-069,CDK4,Lead Optimization,Dr. Sneha Patel,51,63,42,Under Review,Low,United Kingdom,2025
+DD070,Joracel-070,mTOR,Preclinical,Dr. Ravi Menon,62,76,49,Completed,Low,United States,2026
+DD071,Kelimor-071,PI3K,Screening,Dr. Pooja Shah,73,89,56,Discontinued,High,India,2022
+DD072,Lunexor-072,HER2,Hit Validation,Dr. Vikram Das,18,53,63,Discontinued,High,Singapore,2023
+DD073,Mabrosin-073,VEGFR2,Lead Identification,Dr. Meera Nair,29,66,70,On Hold,High,Switzerland,2024
+DD074,Nerafex-074,CDK4,Lead Optimization,Dr. Arjun Verma,40,79,13,Active,Low,Germany,2025
+DD075,Orvaten-075,mTOR,Preclinical,Dr. Ananya Rao,51,92,20,Completed,Medium,United Kingdom,2026
+DD076,Praxilon-076,PI3K,Screening,Dr. Karthik Iyer,62,56,27,Discontinued,Low,United States,2022
+DD077,Quenavir-077,HER2,Hit Validation,Dr. Sneha Patel,73,69,34,Discontinued,High,India,2023
+DD078,Rimotrel-078,VEGFR2,Lead Identification,Dr. Ravi Menon,18,82,41,Active,Medium,Singapore,2024
+DD079,Solmecin-079,CDK4,Lead Optimization,Dr. Pooja Shah,29,95,48,Promising,Medium,Switzerland,2025
+DD080,Travenol-080,mTOR,Preclinical,Dr. Vikram Das,40,59,55,On Hold,High,Germany,2026
+DD081,Aleronib-081,PI3K,Screening,Dr. Meera Nair,51,72,62,On Hold,High,United Kingdom,2022
+DD082,Bexorin-082,HER2,Hit Validation,Dr. Arjun Verma,62,85,69,On Hold,High,United States,2023
+DD083,Carfilene-083,VEGFR2,Lead Identification,Dr. Ananya Rao,73,49,12,Discontinued,High,India,2024
+DD084,Doranex-084,CDK4,Lead Optimization,Dr. Karthik Iyer,18,62,19,Under Review,Low,Singapore,2025
+DD085,Elunavir-085,mTOR,Preclinical,Dr. Sneha Patel,29,75,26,Completed,Low,Switzerland,2026
+DD086,Fostrel-086,PI3K,Screening,Dr. Ravi Menon,40,88,33,Promising,Medium,Germany,2022
+DD087,Galinor-087,HER2,Hit Validation,Dr. Pooja Shah,51,52,40,Discontinued,Low,United Kingdom,2023
+DD088,Heptrava-088,VEGFR2,Lead Identification,Dr. Vikram Das,62,65,47,Under Review,Low,United States,2024
+DD089,Iveromab-089,CDK4,Lead Optimization,Dr. Meera Nair,73,78,54,Discontinued,High,India,2025
+DD090,Joracel-090,mTOR,Preclinical,Dr. Arjun Verma,18,91,61,Promising,High,Singapore,2026
+DD091,Kelimor-091,PI3K,Screening,Dr. Ananya Rao,29,55,68,Discontinued,High,Switzerland,2022
+DD092,Lunexor-092,HER2,Hit Validation,Dr. Karthik Iyer,40,68,11,Under Review,Low,Germany,2023
+DD093,Mabrosin-093,VEGFR2,Lead Identification,Dr. Sneha Patel,51,81,18,Active,Low,United Kingdom,2024
+DD094,Nerafex-094,CDK4,Lead Optimization,Dr. Ravi Menon,62,94,25,Active,Medium,United States,2025
+DD095,Orvaten-095,mTOR,Preclinical,Dr. Pooja Shah,73,58,32,Discontinued,High,India,2026
+DD096,Praxilon-096,PI3K,Screening,Dr. Vikram Das,18,71,39,Under Review,Low,Singapore,2022
+DD097,Quenavir-097,HER2,Hit Validation,Dr. Meera Nair,29,84,46,Active,Medium,Switzerland,2023
+DD098,Rimotrel-098,VEGFR2,Lead Identification,Dr. Arjun Verma,40,48,53,Discontinued,High,Germany,2024
+DD099,Solmecin-099,CDK4,Lead Optimization,Dr. Ananya Rao,51,61,60,On Hold,High,United Kingdom,2025
+DD100,Travenol-100,mTOR,Preclinical,Dr. Karthik Iyer,62,74,67,On Hold,High,United States,2026
+DD101,Aleronib-101,PI3K,Screening,Dr. Sneha Patel,73,87,10,Discontinued,High,India,2022
+DD102,Bexorin-102,HER2,Hit Validation,Dr. Ravi Menon,18,51,17,Discontinued,Low,Singapore,2023
+DD103,Carfilene-103,VEGFR2,Lead Identification,Dr. Pooja Shah,29,64,24,Under Review,Low,Switzerland,2024
+DD104,Doranex-104,CDK4,Lead Optimization,Dr. Vikram Das,40,77,31,Active,Low,Germany,2025
+DD105,Elunavir-105,mTOR,Preclinical,Dr. Meera Nair,51,90,38,Completed,Medium,United Kingdom,2026
+DD106,Fostrel-106,PI3K,Screening,Dr. Arjun Verma,62,54,45,Discontinued,Low,United States,2022
+DD107,Galinor-107,HER2,Hit Validation,Dr. Ananya Rao,73,67,52,Discontinued,High,India,2023
+DD108,Heptrava-108,VEGFR2,Lead Identification,Dr. Karthik Iyer,18,80,59,On Hold,High,Singapore,2024
+DD109,Iveromab-109,CDK4,Lead Optimization,Dr. Sneha Patel,29,93,66,Promising,High,Switzerland,2025
+DD110,Joracel-110,mTOR,Preclinical,Dr. Ravi Menon,40,57,9,Discontinued,Low,Germany,2026
+DD111,Kelimor-111,PI3K,Screening,Dr. Pooja Shah,51,70,16,Under Review,Low,United Kingdom,2022
+DD112,Lunexor-112,HER2,Hit Validation,Dr. Vikram Das,62,83,23,Active,Medium,United States,2023
+DD113,Mabrosin-113,VEGFR2,Lead Identification,Dr. Meera Nair,73,96,30,Discontinued,High,India,2024
+DD114,Nerafex-114,CDK4,Lead Optimization,Dr. Arjun Verma,18,60,37,Under Review,Low,Singapore,2025
+DD115,Orvaten-115,mTOR,Preclinical,Dr. Ananya Rao,29,73,44,Completed,Low,Switzerland,2026
+DD116,Praxilon-116,PI3K,Screening,Dr. Karthik Iyer,40,86,51,Active,High,Germany,2022
+DD117,Quenavir-117,HER2,Hit Validation,Dr. Sneha Patel,51,50,58,Discontinued,High,United Kingdom,2023
+DD118,Rimotrel-118,VEGFR2,Lead Identification,Dr. Ravi Menon,62,63,65,On Hold,High,United States,2024
+DD119,Solmecin-119,CDK4,Lead Optimization,Dr. Pooja Shah,73,76,8,Discontinued,High,India,2025
+DD120,Travenol-120,mTOR,Preclinical,Dr. Vikram Das,18,89,15,Promising,Medium,Singapore,2026
